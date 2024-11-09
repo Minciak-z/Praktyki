@@ -1,0 +1,14 @@
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\bin\Debug\net8.0\zadanie8.exe
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\bin\Debug\net8.0\zadanie8.deps.json
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\bin\Debug\net8.0\zadanie8.runtimeconfig.json
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\bin\Debug\net8.0\zadanie8.dll
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\bin\Debug\net8.0\zadanie8.pdb
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\obj\Debug\net8.0\zadanie8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\obj\Debug\net8.0\zadanie8.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\obj\Debug\net8.0\zadanie8.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\obj\Debug\net8.0\zadanie8.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\obj\Debug\net8.0\zadanie8.dll
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\obj\Debug\net8.0\refint\zadanie8.dll
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\obj\Debug\net8.0\zadanie8.pdb
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\obj\Debug\net8.0\zadanie8.genruntimeconfig.cache
+C:\Users\nikol\OneDrive\Pulpit\zadania praktyki\zadanie8\obj\Debug\net8.0\ref\zadanie8.dll
